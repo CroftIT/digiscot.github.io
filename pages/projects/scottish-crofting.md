@@ -6,13 +6,13 @@ title: Croft IT
 excerpt: 
 lead: The Scottish Crofting Federation
 website: http://www.crofting.org/
-email: HQ@crofting.org
-twitter-url: https://twitter.com/SCFHq
+email: training@crofting.org
+twitter-url: https://twitter.com/SCFtraining
 facebook-url: https://www.facebook.com/Scottish-Crofting-Federation
 start: 1st December 2015
 end: 1st November 2016
 award: 12600
-postcode: KA15 1BY		
+postcode: IV40 8AX	
 image: /images/projects/crofting.jpg
 tags: other
 permalink: /projects/crofting/
@@ -45,13 +45,13 @@ The Ipad devices will be used to support digital inclusion amongst the crofting 
 
 ### Planned project milestones
 
-* Purchase 15 Ipad Air 2 with Gumdrop Cases: December 2015
+* Purchase 15 Ipad Air 2 with Cases, Insurance and Charging Dock : January 2016
 
-* Development time required to integrate digital inclusion into training programme: January 2016
+* Development time required to integrate digital inclusion into training programme: January/February 2016
 
-* Run in-house staff training day for Local Course Directors and Tutors at two possible locations: February 2016
+* Run in-house staff training day for Local Course Directors and Tutors at two possible locations: May 2016
 
-* Start of programme - 8 Crofting Entry Level Courses, 48 Practical Skills Courses, 3 Intermediate Seminars, 4 Croft Visits and 4 Demonstration Days: March 2016
+* It is hoped the main training programme will begin in July 2016 and during the lead up to the the hardware will be used at SCF Events, Crofters Meetings and small networking sessions.
 
 * Evaluation of Croft IT project within SCF Training Programme to ensure IT training becomes a keystone of succeeding years within the Training Programme. During 2016 - 2019 we aim to support a further 1,500 Service Users: October 2016
 
