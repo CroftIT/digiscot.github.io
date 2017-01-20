@@ -68,8 +68,19 @@ The Ipad devices will be used to support digital inclusion amongst the crofting 
 
 ### Evaluation
 
+* Digital technology successfully introduced o volunteer Board members and Council members.  SCF signed digital charter and now operates paperless board meetings.  This reached out to 5 employees, 7 volunteer directors and 11 volunteer council members.  Uptake was well received with all members engaging with digital technology.
+
+* Digital technology training for 8 local course directors to use apps for soil analysis with the James Hutton Institute and in digital communication with Tuminds.
+
+* i pads used for training courses for 50 crofters in a range of topics, legacy benefit: 100 trainees per year to 2019 to use technology.
+
 
 ### Lessons learned
 
+* I pads are useful in tough covers for any outdoor work
+
+* Mobile technology platform is good to use as it can be used on smart phones too
+
+* Better understanding of use of tech in agriculture and this relates to how crofters use tech in daily admin tasks such as IACS returns and recording livestock movements on line
 
 
